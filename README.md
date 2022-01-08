@@ -10,6 +10,8 @@ WhatsApp Direct Code [**PR**]
 
 WhatsApp Direct PlayStore & Other Docs [**PR**]
 
+#### Relase 1 🚀
+...
 
 ---
 
