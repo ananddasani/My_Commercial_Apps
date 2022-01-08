@@ -15,11 +15,11 @@ Direct WhatsApp App 📱
 #### Relase 2 🚀
 ...
 
-<img src="Screen Shots PS/Screens PS/PNG/screen_1.png" width="300" /> <img src="Screen Shots PS/Screens PS/PNG/screen_5.png" width="300" />
+<img src="app_images/screen_1.png" width="300" /> <img src="app_images/screen_5.png" width="300" />
 
-<img src="Screen Shots PS/Screens PS/PNG/screen_3.png" width="300" />  <img src="Screen Shots PS/Screens PS/PNG/screen_4.png" width="300" /> <br>
+<img src="app_imagesG/screen_3.png" width="300" />  <img src="app_images/screen_4.png" width="300" /> <br>
 
-<img src="Screen Shots PS/Screens PS/PNG/screen_2.png" width="300" /> <br>
+<img src="app_images/screen_2.png" width="300" /> <br>
 
 
 ---
