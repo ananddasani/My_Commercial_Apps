@@ -19,7 +19,7 @@ Direct WhatsApp App 📱
 
 <img src="app_images/screen_3.png" width="300" />  <img src="app_images/screen_4.png" width="300" /> <br>
 
-<img src="app_images/screen_2.png" width="300" /> <br>
+<img src="app_images/screen_2.png" width="300" /> <br> <img src="app_images/banner_1024x500.png" width="300" /> <br>
 
 
 ---
