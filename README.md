@@ -4,13 +4,13 @@ This Repo Contains my commercial apps i have made so far using Android &amp; Flu
 # Direct WhatsApp
 
 #### Relase 1 🚀
-WhatsApp Direct App 📱
+Direct WhatsApp App 📱
 
-WhatsApp Direct Code [**PR**]
+[Direct WhatsApp Source Code [**PR**]](https://github.com/ananddasani/Direct_WhatsApp_Code)
 
-WhatsApp Direct PlayStore & Other Docs [**PR**]
+[Direct WhatsApp PlayStore & Other Docs [**PR**]](https://github.com/ananddasani/Direct_WhatsApp_Other_Docs)
 
-#### Relase 1 🚀
+#### Relase 2 🚀
 ...
 
 ---
