@@ -7,7 +7,7 @@ This Repo Contains my commercial apps i have made so far using Android &amp; Flu
 
 [Direct WhatsApp PlayStore & Other Docs [**PR**]](https://github.com/ananddasani/Direct_WhatsApp_Other_Docs)
 
-[Privacy Policy]()
+[Privacy Policy](https://ananddasani.github.io/Direct_WhatsApp_Privacy_Policy/)
 
 #### Relase 1 🚀
 Direct WhatsApp App 📱
