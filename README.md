@@ -21,4 +21,4 @@ WhatsApp Direct PlayStore & Other Docs [**PR**]
 
 [Aastha Event Source Code [**PR**]](https://github.com/ananddasani/Aastha_Event_Code)
 
-[Aastha Event Other Docs [**PR**]]()
+[Aastha Event Other Docs [**PR**]](https://github.com/ananddasani/Aastha_Event_Other_Docs)
