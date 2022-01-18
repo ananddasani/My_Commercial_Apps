@@ -10,7 +10,7 @@ This Repo Contains my commercial apps i have made so far using Android &amp; Flu
 [Privacy Policy](https://ananddasani.github.io/Direct_WhatsApp_Privacy_Policy/)
 
 #### Relase 1 🚀
-Direct WhatsApp App 📱
+[Direct WhatsApp App 📱](https://play.google.com/store/apps/details?id=com.dasanianand.directwhatsapp)
 
 #### Relase 2 🚀
 ...
