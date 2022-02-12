@@ -9,6 +9,8 @@ This Repo Contains my commercial apps i have made so far using Android &amp; Flu
 
 [Privacy Policy](https://ananddasani.github.io/Direct_Message_Privacy_Policy/)
 
+[Terms & Conditions](https://ananddasani.github.io/Direct_Message_Term_and_Condition/)
+
 #### Relase 1 🚀
 [Direct Message App 📱](https://play.google.com/store/apps/details?id=com.dasanianand.directwhatsapp)
 
