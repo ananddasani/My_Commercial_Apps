@@ -3,7 +3,7 @@ This Repo Contains my commercial apps i have made so far using Android &amp; Flu
 
 # Direct Message
 
-[Direct WhatsApp Source Code [**PR**]](https://github.com/ananddasani/Direct_WhatsApp_Code)
+[DirectMessage Source Code [**PR**]](https://github.com/ananddasani/DirectMessage_Code)
 
 [Direct Messag PlayStore & Other Docs [**PR**]](https://github.com/ananddasani/Direct_WhatsApp_Other_Docs)
 
