@@ -16,7 +16,7 @@ This Repo Contains my commercial apps i have made so far using Android &amp; Flu
 
 ## Highlights
 <img src="DirectMessage_app_images/Screen 1.jpeg" width="300" /> <img src="DirectMessage_app_images/Screen 2.jpeg" width="300" /> <img src="DirectMessage_app_images/Screen 6.jpeg" width="300" /> <br>
-<img src="DirectMessage_app_images/Screen 3.jpeg" width="300" /> <img src="DirectMessage_app_images/Screen 4.jpeg" width="300" /> <img src="DirectMessage/DirectMessage_app_images/Screen_5.jpeg" width="300" /> <br>
+<img src="DirectMessage_app_images/Screen 3.jpeg" width="300" /> <img src="DirectMessage_app_images/Screen 4.jpeg" width="300" /> <img src="DirectMessage_app_images/Screen 5.jpeg" width="300" /> <br>
 
 ---
 
@@ -34,8 +34,11 @@ Direct Messag PlayStore & Other Docs [**PR**]
 Profile Downloader App 📱
 
 ## Highlights
-<img src="ProfileDownloader_app_images/Screen 1.png" width="300" /> <img src="ProfileDownloader_app_images/Screen 2.png" width="300" /> <img src="ProfileDownloader_app_images/Screen 6.png" width="300" /> <br>
-<img src="ProfileDownloader_app_images/Screen 3.png" width="300" /> <img src="ProfileDownloader_app_images/Screen 4.png" width="300" /> <img src="ProfileDownloader_app_images/Screen 5.png" width="300" /> <br>
+<img src="ProfileDownloader_app_images/Screen_1.png" width="300" /> <img src="ProfileDownloader_app_images/Screen_2.png" width="300" /> <img src="ProfileDownloader_app_images/Screen_3.png" width="300" /> <br>
+
+<img src="ProfileDownloader_app_images/Screen_4.png" width="300" /> <img src="ProfileDownloader_app_images/Screen_5.png" width="300" /> <img src="ProfileDownloader_app_images/Screen_6.png" width="300" /> <br>
+
+<img src="ProfileDownloader_app_images/Screen_7.png" width="300" /> <img src="ProfileDownloader_app_images/Screen_8.png" width="300" /> <img src="ProfileDownloader_app_images/Screen_9.png" width="300" /> <br>
 
 ---
 
