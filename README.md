@@ -26,7 +26,7 @@ This Repo Contains my commercial apps i have made so far using Android &amp; Flu
 
 ProfileDownloader v2 ContainsAds Source Code [**PR**]
 
-Direct Messag PlayStore & Other Docs [**PR**]
+[ProfileDownloader PlayStore & Other Docs [**PR**]](https://github.com/ananddasani/ProfileDownloader_Other_Doc)
 
 [Privacy Policy](https://ananddasani.github.io/Privacy_Policy_Profile_Downloader/)
 
