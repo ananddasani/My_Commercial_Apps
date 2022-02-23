@@ -33,7 +33,7 @@ Direct Messag PlayStore & Other Docs [**PR**]
 [Terms & Conditions](https://ananddasani.github.io/Terms_and_Condition_Profile_Downloader/)
 
 # Relase 🚀
-Profile Downloader App 📱
+[Profile Downloader App 📱](https://play.google.com/store/apps/details?id=com.dasanianand.profiledownloader)
 
 ## Highlights
 <img src="ProfileDownloader_app_images/Screen_1.png" width="300" /> <img src="ProfileDownloader_app_images/Screen_2.png" width="300" /> <img src="ProfileDownloader_app_images/Screen_3.png" width="300" /> <br>
