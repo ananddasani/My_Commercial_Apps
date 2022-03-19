@@ -22,9 +22,9 @@ This Repo Contains my commercial apps i have made so far using Android &amp; Flu
 
 # Profile Downloader
 
-[ProfileDownloader v1 NoAds Source Code [**PR**]](https://github.com/ananddasani/ProfileDownloader_V1_NoAds/tree/main/ProfileDownloader%20V1%20NoAds/ProfileDownloader)
+1. [ProfileDownloader v1 NoAds Source Code [**PR**]](https://github.com/ananddasani/ProfileDownloader_Source_Code/tree/main/Release%201%20No%20Ads)
 
-ProfileDownloader v2 ContainsAds Source Code [**PR**]
+1. [ProfileDownloader v2 ContainsAds Source Code [**PR**]](https://github.com/ananddasani/ProfileDownloader_Source_Code/tree/main/Release%202%20Contains%20Ads)
 
 [ProfileDownloader PlayStore & Other Docs [**PR**]](https://github.com/ananddasani/ProfileDownloader_Other_Doc)
 
